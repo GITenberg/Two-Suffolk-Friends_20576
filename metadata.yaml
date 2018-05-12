@@ -1,0 +1,29 @@
+_repo: Two-Suffolk-Friends_20576
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Groome, Francis Hindes
+    birthdate: 1851
+    deathdate: 1902
+    gutenberg_agent_id: '9401'
+    url: http://www.gutenberg.org/2009/agents/9401
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hindes_Groome
+description: ''
+gutenberg_issued: '2007-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20576'
+  lccn: 02005903
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'FitzGerald, Edward, 1809-1883'
+- !lcsh 'Groome, Robert Hindes, 1810-1889'
+title: Two Suffolk Friends
+url: http://www.gutenberg.org/ebooks/20576
